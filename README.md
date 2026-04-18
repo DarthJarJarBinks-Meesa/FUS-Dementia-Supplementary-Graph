@@ -6,7 +6,7 @@ This file, `index.html`, is an interactive supplementary graphic associated with
 
 ## Description
 
-The supplementary graphic is provided as a standalone HTML file and is designed for viewing in a standard web browser. It uses Plotly to display an interactive visualization that complements the findings presented in the manuscript. :contentReference[oaicite:2]{index=2}
+The supplementary graphic is provided as a standalone HTML file and is designed for viewing in a standard web browser. It uses Plotly to display an interactive visualization that complements the findings presented in the manuscript.
 
 ## Viewing Instructions
 
